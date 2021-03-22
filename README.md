@@ -54,3 +54,7 @@ The theme is available as open source under the terms of the [MIT License](https
 
 
 https://index.jekyllthemes.io/project/triangles
+
+to run:
+
+`bundle exec jekyll serve --watch`

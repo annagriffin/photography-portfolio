@@ -28,41 +28,6 @@
   padding: 0px 10px;
 }
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-.column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-  }
-}
 
 
 .masonry {
@@ -80,8 +45,7 @@
     margin-bottom: 16px;
     position: relative;
     &:before {
-      border-radius: 5px;
-      content:'';
+
       position:absolute;
       top:0;
       right:0;
@@ -91,7 +55,6 @@
     }
     img {
       width: 100%;
-      border-radius: 5px;
     }
     &__title {
       font-size: 28px;

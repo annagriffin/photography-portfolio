@@ -61,3 +61,15 @@
 - name: Water Reflection
   file: water_reflection
   project: Black and White
+- name: Toilet Paper 2
+  file: toilet_paper2
+  project: Mimic
+- name: Family of Pears
+  file: family_of_pears1
+  project: Mimic
+- name: Family of Pears 2
+  file: family_of_pears2
+  project: Mimic
+- name: Sheets
+  file: Sheets
+  project: Black and White

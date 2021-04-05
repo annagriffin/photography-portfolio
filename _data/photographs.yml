@@ -82,4 +82,7 @@
 - name: Vertical Leaf in Pot
   file: vertical_leaf_pot
   project: Mimic
-   
+- name: Toilet Paper
+  file: toilet_paper3
+  project: Mimic
+

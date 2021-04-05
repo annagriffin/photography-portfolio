@@ -6,9 +6,6 @@ body {
   background: #f6f6f6;
 }
 
-.current {
-  color: green;
-}
 
 .side-nav {
   height: 100%;
@@ -19,7 +16,7 @@ body {
   left: 0;
   background-color: rgb(255, 255, 255);
   overflow-x: hidden;
-  padding-top: 20px;
+  padding-top: 30px;
 }
 
 .side-nav a {
@@ -48,7 +45,6 @@ h1 {
     height: calc(100vh - 16px);
   }
 }
-
 
 
 .masonry {
@@ -115,4 +111,15 @@ h1 {
 }
 .mt-auto {
   margin-top:auto;
+}
+
+
+.current {
+  color:rgb(66, 66, 66) !important;
+  font-weight: bold;
+}
+
+.page-content {
+  padding-left: 60px;
+  margin-top: 30px;
 }

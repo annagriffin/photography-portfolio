@@ -71,5 +71,15 @@
   file: family_of_pears2
   project: Mimic
 - name: Sheets
-  file: Sheets
+  file: sheets
   project: Black and White
+- name: Leaf in Pot
+  file: leaf_pot
+  project: Mimic
+- name: Sliver of Light
+  file: sliver_light
+  project: Mimic
+- name: Vertical Leaf in Pot
+  file: vertical_leaf_pot
+  project: Mimic
+   

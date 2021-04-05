@@ -1,14 +1,14 @@
 - name: Bottle
   file: bottle
   project: Mimic
-- name: Bouy 1
-  file: bouy_1
+- name: Buoy 1
+  file: buoy_1
   project: Black and White
-- name: Bouy 2
-  file: bouy_2
+- name: Buoy 2
+  file: buoy_2
   project: Black and White
-- name: Bouy 3
-  file: bouy_3
+- name: Buoy 3
+  file: buoy_3
   project: Black and White
 - name: Branches next to water
   file: branches_water

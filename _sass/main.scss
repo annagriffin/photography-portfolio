@@ -1,3 +1,11 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background: #f6f6f6;
+}
+
 .current {
   color: green;
 }
@@ -9,16 +17,17 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: rgb(255, 255, 255);
   overflow-x: hidden;
   padding-top: 20px;
 }
 
 .side-nav a {
+  font-family: "Montserrat", sans-serif;
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #000000;
   display: block;
 }
 
@@ -28,11 +37,23 @@
   padding: 0px 10px;
 }
 
+h1 {
+ font-family: 'Montserrat', sans-serif;
+}
+
+.image-container {
+  text-align: center;
+
+  img {
+    height: calc(100vh - 16px);
+  }
+}
+
 
 
 .masonry {
   columns: 4;
-  column-gap: 16px;
+  column-gap: 12px;
   @media (max-width: 1200px) {
     columns: 3;
   }
@@ -42,7 +63,7 @@
   //@media (max-width: 768px) {columns: 1;}
   .grid {
     display: inline-block;
-    margin-bottom: 16px;
+    margin-bottom: 6px;
     position: relative;
     &:before {
 
@@ -95,4 +116,3 @@
 .mt-auto {
   margin-top:auto;
 }
-

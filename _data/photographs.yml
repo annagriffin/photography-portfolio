@@ -1,63 +1,63 @@
 - name: Bottle
-  file: bottle.jpg
+  file: bottle
   project: Mimic
 - name: Bouy 1
-  file: bouy_1.jpg
+  file: bouy_1
   project: Black and White
 - name: Bouy 2
-  file: bouy_2.jpg
+  file: bouy_2
   project: Black and White
 - name: Bouy 3
-  file: bouy_3.jpg
+  file: bouy_3
   project: Black and White
 - name: Branches next to water
-  file: branches_water.jpg
+  file: branches_water
   project: Black and White
 - name: Bunch of Branches
-  file: branches.jpg
+  file: branches
   project: Black and White
 - name: Building Support
-  file: building_support.jpg
+  file: building_support
   project: Black and White
 - name: Close up Leaf
-  file: close_leaf.jpg
+  file: close_leaf
   project: Black and White
 - name: Diagonal Shadows
-  file: diagonal_shadows.jpg
+  file: diagonal_shadows
   project: Black and White
 - name: Green Leaf 1
-  file: green_leaf1.jpg
+  file: green_leaf1
   project: Mimic
 - name: Green Leaf 2
-  file: green_leaf2.jpg
+  file: green_leaf2
   project: Mimic
 - name: Hanging Leaf
-  file: hanging_leaf.jpg
+  file: hanging_leaf
   project: Black and White
 - name: Orange
-  file: orange.jpg
+  file: orange
   project: Mimic
 - name: Rocking Chair Shadow
-  file: rocking_chair_shadow.jpg
+  file: rocking_chair_shadow
   project: Black and White
 - name: Rocking Chair
-  file: rocking_chair.jpg
+  file: rocking_chair
   project: Black and White
 - name: Spotted Plant
-  file: spotted_plant.jpg
+  file: spotted_plant
   project: Black and White
 - name: Steps
-  file: steps.jpg
+  file: steps
   project: Black and White
 - name: Toilet Paper
-  file: toilet_paper.jpg
+  file: toilet_paper
   project: Mimic
 - name: Twisted Sheet
-  file: twisted_sheet.jpg
+  file: twisted_sheet
   project: Mimic
 - name: Wall Shadow
-  file: wall_shadow.jpg
+  file: wall_shadow
   project: Black and White
 - name: Water Reflection
-  file: water_reflection.jpg
+  file: water_reflection
   project: Black and White

@@ -1,0 +1,30 @@
+---
+layout: default
+title: Projects
+---
+<h1>Projects</h1>
+
+<h2>Mimic</h2>
+
+<ul>
+  {% assign filtered_posts = site.photographs | where: 'project', "Mimic" %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Black and White</h2>
+<ul>
+  {% assign filtered_posts = site.photographs | where: 'project', "Black and White" %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Portraits</h2>
+<ul>
+  {% assign filtered_posts = site.photographs | where: 'project', "Portraits" %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

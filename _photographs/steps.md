@@ -1,8 +1,10 @@
 ---
 layout: post
-author: jill
-image: puppy.jpg
-title: "new title"
+project: Black and White
+image: steps.jpg
+title: Steps
+
+
 ---
 
 # Name of Photo

@@ -1,13 +1,13 @@
 collections:
-  authors:
+  photographs:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "photographs"
     values:
-      layout: "author"
+      layout: "post"
   - scope:
       path: ""
       type: "posts"

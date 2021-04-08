@@ -13,6 +13,9 @@
 - name: Branches next to water
   file: branches_water
   project: Black and White
+- name: Bunny
+  file: bunny
+  project: Mimic
 - name: Bunch of Branches
   file: branches
   project: Black and White

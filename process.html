@@ -1,0 +1,32 @@
+---
+layout: default
+title: Process
+---
+
+<div class="book-container">
+  <div id="flipbook">
+    <div style="background: url('assets/pages/1.jpg');"></div>
+    <div style="background: url('assets/pages/2.jpg');"></div>
+    <div style="background: url('assets/pages/3.jpg');"></div>
+    <div style="background: url('assets/pages/4.jpg');"></div>
+    <div style="background: url('assets/pages/5.jpg');"></div>
+    <div style="background: url('assets/pages/6.jpg');"></div>
+    <div style="background: url('assets/pages/7.jpg');"></div>
+    <div style="background: url('assets/pages/8.jpg');"></div>
+    <div style="background: url('assets/pages/9.jpg');"></div>
+    <div style="background: url('assets/pages/10.jpg');"></div>
+    <div style="background: url('assets/pages/11.jpg');"></div>
+    <div style="background: url('assets/pages/12.jpg');"></div>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="turn.js"></script>
+<script>
+  $('#flipbook').turn({
+    gradients: true,
+    acceleration: true,
+    autoCenter: true
+  });
+</script>

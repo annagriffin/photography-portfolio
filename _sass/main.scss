@@ -157,3 +157,30 @@ h1, h2 {
 .container {
   margin-bottom: 50px;
 }
+
+// .book-container {
+//   // overflow: hidden;
+//   background: deepskyblue;
+//   height: 625px;
+//   width: 883px;
+//   margin: 20px auto;
+// }
+
+#flipbook {
+  margin: 90px auto;
+  box-sizing: border-box;
+  width: 883px;
+  height: 625px;
+
+}
+
+#flipbook .turn-page{
+  background-size: cover !important;
+}
+
+#flipbook div {
+  background-size: cover;
+  background-position: center center;
+}
+
+

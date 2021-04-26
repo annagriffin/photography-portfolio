@@ -6,7 +6,7 @@ layout: default
       {% assign filtered_images = site.data.photographs | where: 'project', page.project %}
       {% for item in filtered_images %}
       <div class="grid">
-        <img src="/assets/images/{{ item.file }}.jpg">
+        <img src="assets/images/{{ item.file }}.jpg">
       </div>
       {% endfor %}
     

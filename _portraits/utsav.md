@@ -1,7 +1,8 @@
 ---
 layout: carousel
 title: Ustav
-project: utsav
+project: Portraits
+group: utsav
 ---
 
 {{ content }}

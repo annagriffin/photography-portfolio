@@ -1,7 +1,8 @@
 ---
 layout: carousel
-title: Max
-project: max
+title: Alex
+project: Portraits
+group: alex
 ---
 
 {{ content }}

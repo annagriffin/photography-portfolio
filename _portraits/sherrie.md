@@ -1,7 +1,8 @@
 ---
 layout: carousel
 title: Sherrie
-project: sherrie
+project: Portraits
+group: sherrie
 ---
 
 {{ content }}

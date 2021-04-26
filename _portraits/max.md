@@ -1,7 +1,8 @@
 ---
 layout: carousel
 title: Max
-project: max
+project: Portraits
+group: max
 ---
 
 {{ content }}

@@ -1,6 +1,8 @@
 collections:
   photographs:
     output: true
+  portraits:
+    output: true
 
 defaults:
   - scope:
@@ -13,6 +15,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "portraits"
+    values:
+      layout: "carousel"
   - scope:
       path: ""
     values:

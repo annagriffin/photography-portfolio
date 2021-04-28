@@ -1,19 +1,11 @@
-- name: Bottle
-  file: bottle
-  project: Mimic
-  group: o
-- name: Buoy 1
-  file: buoy_1
+- name: Reflections_0
+  file: reflections_0
   project: Black and White
-  group: o
-- name: Buoy 2
-  file: buoy_2
+  group: reflections
+- name: Reflections_1
+  file: reflections_1
   project: Black and White
-  group: o
-- name: Buoy 3
-  file: buoy_3
-  project: Black and White
-  group: o
+  group: reflections
 - name: Organic_0
   file: organic_0
   project: Black and White
@@ -50,22 +42,18 @@
   file: shadows_2
   project: Black and White
   group: shadows
+- name: Shadows_3
+  file: shadows_3
+  project: Black and White
+  group: shadows
 - name: Organic_3
   file: organic_3
   project: Black and White
   group: organic
-- name: Orange
-  file: orange
-  project: Mimic
-  group: o
 - name: Shadows_0
   file: shadows_0
   project: Black and White
   group: shadows
-- name: Rocking Chair
-  file: rocking_chair
-  project: Black and White
-  group: o
 - name: Organic_4
   file: organic_4
   project: Black and White
@@ -84,6 +72,18 @@
   group: city
 - name: City_3
   file: city_3
+  project: Black and White
+  group: city
+- name: City_4
+  file: city_4
+  project: Black and White
+  group: city
+- name: City_5
+  file: city_5
+  project: Black and White
+  group: city
+- name: City_6
+  file: city_6
   project: Black and White
   group: city
 - name: Toilet_paper_1
@@ -158,30 +158,6 @@
   group: alex
   file: alex_6
   project: Portraits
-- name: Alex_7
-  group: alex
-  file: alex_7
-  project: Portraits
-- name: Alex_8
-  group: alex
-  file: alex_8
-  project: Portraits
-- name: Alex_9
-  group: alex
-  file: alex_9
-  project: Portraits
-- name: Alex_10
-  group: alex
-  file: alex_10
-  project: Portraits
-- name: Alex_11
-  group: alex
-  file: alex_11
-  project: Portraits
-- name: Alex_12
-  group: alex
-  file: alex_12
-  project: Portraits
 - name: Sherrie_0
   group: sherrie
   file: sherrie_0
@@ -218,10 +194,6 @@
   group: sherrie
   file: sherrie_8
   project: Portraits
-- name: Sherrie_9
-  group: sherrie
-  file: sherrie_9
-  project: Portraits
 - name: Max_0
   group: max
   file: max_0
@@ -249,30 +221,6 @@
 - name: Max_6
   group: max
   file: max_6
-  project: Portraits
-- name: Max_7
-  group: max
-  file: max_7
-  project: Portraits
-- name: Max_8
-  group: max
-  file: max_8
-  project: Portraits
-- name: Max_9
-  group: max
-  file: max_9
-  project: Portraits
-- name: Max_10
-  group: max
-  file: max_10
-  project: Portraits
-- name: Max_11
-  group: max
-  file: max_11
-  project: Portraits
-- name: Max_12
-  group: max
-  file: max_12
   project: Portraits
 - name: Utsav_0
   group: utsav
@@ -305,16 +253,4 @@
 - name: Utsav_7
   group: utsav
   file: utsav_7
-  project: Portraits
-- name: Utsav_8
-  group: utsav
-  file: utsav_8
-  project: Portraits
-- name: Utsav_9
-  group: utsav
-  file: utsav_9
-  project: Portraits
-- name: Utsav_10
-  group: utsav
-  file: utsav_10
   project: Portraits

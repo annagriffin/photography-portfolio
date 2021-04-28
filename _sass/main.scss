@@ -28,6 +28,11 @@ body {
   display: block;
 }
 
+.title {
+  padding-left: 16px;
+  text-transform: uppercase;
+}
+
 .main {
   margin-left: 160px; /* Same as the width of the sidenav */
   font-size: 18px;

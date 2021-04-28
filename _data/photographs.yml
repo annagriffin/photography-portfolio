@@ -14,102 +14,122 @@
   file: buoy_3
   project: Black and White
   group: o
-- name: Branches next to water
-  file: branches_water
+- name: Organic_0
+  file: organic_0
   project: Black and White
-  group: o
-- name: Bunny
-  file: bunny
+  group: organic
+- name: Stuffed_animals_0
+  file: stuffed_animals_0
   project: Mimic
-  group: stuffed animal
-- name: Bunch of Branches
-  file: branches
+  group: stuffed_animals
+- name: Organic_1
+  file: organic_1
   project: Black and White
-  group: o
-- name: Building Support
-  file: building_support
+  group: organic
+- name: Structures_0
+  file: structures_0
   project: Black and White
-  group: o
-- name: Close up Leaf
-  file: close_leaf
+  group: structures
+- name: Structures_1
+  file: structures_1
   project: Black and White
-  group: o
-- name: Diagonal Shadows
-  file: diagonal_shadows
+  group: structures
+- name: Structures_2
+  file: structures_2
   project: Black and White
-  group: o
-- name: Hanging Leaf
-  file: hanging_leaf
+  group: structures
+- name: Structures_3
+  file: structures_3
   project: Black and White
-  group: o
+  group: structures
+- name: Organic_2
+  file: organic_2
+  project: Black and White
+  group: organic
+- name: Shadows_2
+  file: shadows_2
+  project: Black and White
+  group: shadows
+- name: Organic_3
+  file: organic_3
+  project: Black and White
+  group: organic
 - name: Orange
   file: orange
   project: Mimic
   group: o
-- name: Rocking Chair Shadow
-  file: rocking_chair_shadow
+- name: Shadows_0
+  file: shadows_0
   project: Black and White
-  group: o
+  group: shadows
 - name: Rocking Chair
   file: rocking_chair
   project: Black and White
   group: o
-- name: Spotted Plant
-  file: spotted_plant
+- name: Organic_4
+  file: organic_4
   project: Black and White
-  group: o
-- name: Steps
-  file: steps
+  group: organic
+- name: City_0
+  file: city_0
   project: Black and White
-  group: o
-- name: Toilet Paper
-  file: toilet_paper
+  group: city
+- name: City_1
+  file: city_1
+  project: Black and White
+  group: city
+- name: City_2
+  file: city_2
+  project: Black and White
+  group: city
+- name: City_3
+  file: city_3
+  project: Black and White
+  group: city
+- name: Toilet_paper_1
+  file: toilet_paper_1
   project: Mimic
-  group: toilet paper
-- name: Twisted Sheet
-  file: twisted_sheet
+  group: toilet_paper
+- name: Sheets_1
+  file: sheets_1
   project: Mimic
   group: sheets
-- name: Wall Shadow
-  file: wall_shadow
+- name: Shadows_1
+  file: shadows_1
   project: Black and White
-  group: o
-- name: Water Reflection
-  file: water_reflection
-  project: Black and White
-  group: o
-- name: Toilet Paper 2
-  file: toilet_paper2
+  group: shadows
+- name: Toilet_paper_2
+  file: toilet_paper_2
   project: Mimic
-  group: toilet paper
-- name: Family of Pears
-  file: family_of_pears1
+  group: toilet_paper
+- name: Pears_0
+  file: pears_0
   project: Mimic
   group: pears
-- name: Family of Pears 2
-  file: family_of_pears2
+- name: Pears_1
+  file: pears_1
   project: Mimic
   group: pears
-- name: Sheets
-  file: sheets
+- name: Sheets_0
+  file: sheets_0
   project: Black and White
   group: sheets
-- name: Leaf in Pot
-  file: leaf_pot
+- name: Plants_0
+  file: plants_0
   project: Mimic
   group: plants
-- name: Sliver of Light
-  file: sliver_light
+- name: Plants_2
+  file: plants_2
   project: Mimic
   group: plants
-- name: Vertical Leaf in Pot
-  file: vertical_leaf_pot
+- name: Plants_1
+  file: plants_1
   project: Mimic
   group: plants
-- name: Toilet Paper
-  file: toilet_paper3
+- name: Toilet_paper_0
+  file: toilet_paper_0
   project: Mimic
-  group: toilet paper
+  group: toilet_paper
 - name: Alex_0
   group: alex
   file: alex_0
